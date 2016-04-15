@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Getting started with Neighborhood Informant – 
+
+1. Create new login to start using the application. Use “Forgot Password” to recover password for existing account.
+
+2. Clicking on the “GO” Button loads all the available properties in the Chicago Metropolitan Area. These are viewable on the Results Pane (on the right). You are provided with information such as Community Area Name, Address, Zip code and more.
+3. Refining your search – You can refine the search results using filters on the left side of the application window.
+	Community Name lets you filter the results on an area name.
+	Zip code lets you filter on a particular Zip code.
+	Property Type lets you filter on the property type such as multifamily etc.
+	Address lets you filter on an address or part of it.
+	Crime Index filter which is in range of 1-5 with “1” being the safest and 5 being the least safe. 
+	Radius filter is used to set the range within which the number of bus stops, parks, DIVY bike stands are calculated.
+
+4. You can change the fields that are displayed in the results by selecting/deselecting them within the list.
+
+5. You can select a particular listing as your favorite and display all of them later.
+
+6. You can also Color code the search results. Based on the rating of the property, it is provided green, yellow or red.
+
+
+Ratings
+
+Each available property is provided a rating. Higher the rating more livable the area.
+
+
+Map View:
+
+Select a search result, highlighting it.
+Click on View→In Maps; alternatively press Ctrl+ M
+A new browser window will open with google maps pin pointing the address.
+Getting details of an area
+Click on any search result, highlighting it.
+Click on View→Details; alternatively press Ctrl+ D.
+A new window will open showing you the details such as crime in the area, bus stops, train stops, schools, libraries, divvy stands etc.
+You can also email the details to someone, see the location in maps.
+
+
+Email
+
+You have the option to email the search results to any person. However to be able to send emails from this application you need a Gmail account. Additionally, an account settings need to be changed. Use the link https://www.google.com/settings/u/0/security/lesssecureapps and select “Connected apps and sites” and turn on the “Allow less secure app” feature.
+Steps to send an email:
+Select the search results you want to email.
+Click on File→Send Email; alternatively press Ctrl+ E.
+A new window will pop up asking for details. You can also attach a file 
+
+Following are the common issues in sending the emails:
+ 1. Problem in network connection
+ 2. User account not configured for low security applications to access
+
+Save
+
+Click File→Save all to save all the search results; alternatively press Ctrl+ S.
+To save few selected, go to File→Save Selected; alternatively press Ctrl+ Shift+ s. 
+Offline Viewing and Searching
+Once the data has been loaded, you can search without connecting to the Internet. The application, however, requires internet connection to perform updates to the housing data from time to time.</value>
+  </data>
+</root>

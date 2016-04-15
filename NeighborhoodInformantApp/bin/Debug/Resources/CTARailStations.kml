@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="CTA_RailStations">
+  <name>CTA_RailStations</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>CTA_RailStations</name>
+  <Snippet></Snippet>
+    <Placemark>
+      <name>Diversey</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653131,41.932732,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>35-Bronzeville-IIT</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.625881,41.831678,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Main</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.679538,42.033456,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Granville</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.659202,41.993664,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thorndale</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.659076,41.990259,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wellington</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653266,41.936033,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fullerton</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.652866,41.925051,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skokie</name>
+      <styleUrl>#IconStyle07</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.751919,42.038951,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Davis</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.683543,42.047710,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dempster</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.681602,42.041655,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.629440,41.883164,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.635947,41.896774,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.688503,41.966250,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Francisco</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.701656,41.966147,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Addison</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.674736,41.947029,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paulina</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.670884,41.943709,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Damen</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.678635,41.966411,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montrose</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.675165,41.961752,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LaSalle/Van Buren</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631734,41.876855,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Madison/Wabash</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626156,41.882031,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Randolph/Wabash</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626222,41.884435,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>State/Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627835,41.885740,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627813,41.884809,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harrison</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627479,41.874039,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cumberland</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.838026,41.984294,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oak Park</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.793783,41.886988,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.774135,41.887293,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashland</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.666951,41.885311,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clinton</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.641771,41.885703,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.647578,41.891189,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.655214,41.896075,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Damen</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.677437,41.909744,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.696890,41.921939,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belmont</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.712359,41.938132,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montrose</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.743617,41.961487,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jefferson Park</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.760892,41.970634,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>87th</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.624753,41.735371,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>79th</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.625178,41.750412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>47th</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631026,41.810338,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sox-35th</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.630636,41.831191,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cermak-Chinatown</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.630968,41.853206,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cottage Gr-East 63rd</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.605857,41.780309,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King Drive</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.615546,41.780130,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halsted</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.644023,41.779028,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashland</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.663845,41.778953,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>47th</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.618826,41.809209,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roosevelt</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626590,41.867405,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>O'Hare</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.901848,41.978877,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lawrence</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658493,41.969139,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belmont</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653380,41.939751,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North/Clybourn</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.649177,41.910655,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loyola</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.661061,42.001073,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noyes</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.683337,42.058282,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Howard</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.672892,42.019063,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berwyn</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658668,41.977984,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.706155,41.884321,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morse</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.665909,42.008362,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.628176,41.896671,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.628021,41.891665,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sedgwick</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.639302,41.910409,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockwell</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.694111,41.966210,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.725625,41.873889,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oak Park</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.791602,41.872108,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harlem</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.806961,41.873490,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski</name>
+      <styleUrl>#IconStyle064</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.724450,41.799888,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie-Homan</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.705978,41.874426,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forest Park</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.817318,41.874257,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monroe</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627696,41.880745,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harlem</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.808895,41.982323,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ridgeland</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.783661,41.887159,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laramie</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.754986,41.887163,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.696234,41.884220,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.687364,41.916157,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Addison</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.719099,41.947360,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garfield</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.618324,41.795177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western</name>
+      <styleUrl>#IconStyle064</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.684065,41.804684,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>35th/Archer</name>
+      <styleUrl>#IconStyle064</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.680587,41.829560,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Polk</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.669543,41.871563,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.694823,41.854280,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.705428,41.854131,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>54th/Cermak</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.756692,41.851773,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UIC-Halsted</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.649642,41.875516,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clinton</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.640984,41.875539,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LaSalle</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631722,41.875568,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wilson</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.657588,41.964273,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armitage</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.652644,41.918217,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.765650,41.887389,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.725404,41.885412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.685617,42.063987,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Foster</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.683560,42.054160,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conservatory</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.716523,41.884904,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sheridan</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.654929,41.953775,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Addison</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653626,41.947428,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clark/Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.630886,41.885737,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jackson</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.629296,41.878183,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clark/Division</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631412,41.903920,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Linden</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.690730,42.073153,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Boulevard</name>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.678329,42.027612,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jarvis</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.669092,42.015876,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bryn Mawr</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658840,41.983504,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merchandise Mart</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.633973,41.888968,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington/Wells</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.633854,41.882695,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southport</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.663610,41.943812,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adams/Wabash</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626098,41.879510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jackson</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627596,41.878153,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosemont</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.859388,41.983507,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harlem</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.803176,41.886848,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Division</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.666496,41.903355,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>95/Dan Ryan</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.624415,41.722376,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>63rd</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631000,41.780534,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garfield</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631169,41.795418,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roosevelt</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627402,41.867368,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>43rd</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.619036,41.816463,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Indiana</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.621463,41.821815,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Irving Park</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.729177,41.952940,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cicero</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.744698,41.886519,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627748,41.883215,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monroe</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.629378,41.880703,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quincy/Wells</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.633740,41.878723,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Argyle</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658530,41.973453,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kimball</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.713142,41.967928,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.708844,41.966093,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Irving Park</name>
+      <styleUrl>#IconStyle012</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.674956,41.954523,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Racine</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.659456,41.875886,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Medical District</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.673946,41.875635,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.688435,41.875530,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.776785,41.870886,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cicero</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.745172,41.871608,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Library</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.628209,41.876908,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Logan Square</name>
+      <styleUrl>#IconStyle010</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.708541,41.929728,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>69th</name>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.625809,41.768368,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>51st</name>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.618502,41.802092,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midway</name>
+      <styleUrl>#IconStyle064</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.737956,41.786614,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie</name>
+      <styleUrl>#IconStyle064</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.704321,41.804348,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashland</name>
+      <styleUrl>#IconStyle064</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.665312,41.839356,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halsted</name>
+      <styleUrl>#IconStyle064</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.648131,41.846901,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>18th</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.669160,41.857908,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Damen</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.675974,41.854515,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.685179,41.854397,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Park</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.714880,41.853992,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.724327,41.853857,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kostner</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.733264,41.853751,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cicero</name>
+      <styleUrl>#IconStyle077</styleUrl>
+      <Snippet></Snippet>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.745342,41.851925,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff000000</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle01">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff00a838</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle02">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ffe600a9</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle03">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff0000ff</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle07">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff00e6e6</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle010">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ffff7000</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle012">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff445a89</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle064">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff00aaff</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="IconStyle077">
+    <IconStyle>
+      <Icon><href>000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>ffb06df7</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+  </Style>
+</Document>
+</kml>

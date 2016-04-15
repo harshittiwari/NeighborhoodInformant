@@ -1,0 +1,16 @@
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\bin\Debug\NeighborhoodInformantApp.exe.config
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\bin\Debug\NeighborhoodInformantApp.exe
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\bin\Debug\NeighborhoodInformantApp.pdb
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.Form1.resources
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.Properties.Resources.resources
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.csproj.GenerateResource.Cache
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.exe
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.pdb
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.Login.resources
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.NewLogin.resources
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\bin\Debug\Resources\busStops.kml
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\bin\Debug\Resources\CTARailStations.kml
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\bin\Debug\Resources\Metrastations.kml
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.Details.resources
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.SendEmail.resources
+D:\UIC\CS 440 - SE1\coding project\GIT\Code\NeighborhoodInformant\NeighborhoodInformantApp\obj\Debug\NeighborhoodInformantApp.csprojResolveAssemblyReference.cache
